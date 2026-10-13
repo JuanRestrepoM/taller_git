@@ -30,7 +30,7 @@ def load_data():
     data = data.set_index('time')
     return data
     
-
+var = "Laura estuvo aquí"
 # Cargar datos
 data = load_data()
 
